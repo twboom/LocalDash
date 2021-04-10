@@ -1,0 +1,12 @@
+:root {
+    --background: #191F22;
+}
+
+body {
+    background-color: var(--background);
+}
+
+header > h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
